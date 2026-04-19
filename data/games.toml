@@ -24,6 +24,14 @@ Analysis = [
   ["Grand Theft Auto 6 Trailer 2 Tech Breakdown", "https://www.eurogamer.net/digitalfoundry-2025-gta-6-trailer-2-tech-breakdown-incredible-realism-impressive-rt-astonishing-detail"],
 ]
 
+["PRAGMATA"]
+Developer = "Capcom"
+Engine = "RE Engine"
+Year = "2026"
+Analysis = [
+  ["Behind the Pretty Frames: PRAGMATA", "https://mamoniem.com/behind-the-pretty-frames-pragmata/"],
+]
+
 ["Clair Obscur: Expedition 33"]
 Developer = "Sandfall Interactive"
 Engine = "UE5"
